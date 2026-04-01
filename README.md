@@ -1,6 +1,6 @@
 # Hello :wave:
 
-Welcome to my GitHub!  I'm Alex Bertrand, Full Stack Engineer.
+Welcome to my GitHub!  I'm Alex Bertrand, Full Stack Software Engineer.
 
 How to reach me :point_down:
 * [LinkedIn](https://www.linkedin.com/in/alex-bertrand/)
